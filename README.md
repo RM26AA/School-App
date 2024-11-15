@@ -33,16 +33,16 @@ The School Management App is a comprehensive, multi-functional web application d
    cd your-repository-name
 3. Open the stanleyv3.html file in a web browser to start using the app.
 
-How to Use:
-Login: Use the default credentials (email: student@school.com, password: password) to access the dashboard.
-Navigate: Use the bottom navigation bar to switch between sections.
-Explore Features: Access your profile, view grades, announcements, and manage your classes.
-Contact: Fill out the contact form to reach school administration.
+## How to Use:
+- Login: Use the default credentials (email: student@school.com, password: password) to access the dashboard.
+- Navigate: Use the bottom navigation bar to switch between sections.
+- Explore Features: Access your profile, view grades, announcements, and manage your classes.
+- Contact: Fill out the contact form to reach school administration.
 
-License:
+## License:
 This project is open-source and available under the MIT License.
 
-Author:
+## Author:
 Romeo Maunick - A passionate developer committed to creating impactful digital solutions.
 
 
